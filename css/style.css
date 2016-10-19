@@ -99,8 +99,8 @@ display: block;
 }
 
  #page1 > .p1_lantern{
-	margin-top:50%;
-	margin-left: 70%;
+	top:50%;
+	left: 50%;
 	font-size: 3.6rem;	
 	color:#fff;
 	font-family: "Lucida Grande";
